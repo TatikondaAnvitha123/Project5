@@ -1,0 +1,7 @@
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\bin\Debug\CricketPlayer.exe.config
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\bin\Debug\CricketPlayer.exe
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\bin\Debug\CricketPlayer.pdb
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\obj\Debug\CricketPlayer.csproj.AssemblyReference.cache
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\obj\Debug\CricketPlayer.csproj.CoreCompileInputs.cache
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\obj\Debug\CricketPlayer.exe
+C:\Users\anves\OneDrive\Mphasis\CricketPlayer\CricketPlayer\obj\Debug\CricketPlayer.pdb

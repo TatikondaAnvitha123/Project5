@@ -1,0 +1,7 @@
+1,A,22,Batsman
+2,B,23,Batsman
+3,C,26,Batsman
+4,D,25,All-Rounder
+5,E,21,Fast-Bowler
+6,F,23,Spin-Left
+7,G,24,All-Rounder
